@@ -1,0 +1,15 @@
+body{
+    background: url(fd4928d1044a0531174b598639585c3a.jpg);
+    text-align: center;
+}
+h1, p, span{
+    padding: 10px;
+    margin: 10px;
+    background-color: aqua;
+}
+footer{
+    position: fixed;
+}
+canvas{
+    box-shadow: 10px, 10px, 0, rgb(138, 138, 223);
+}
